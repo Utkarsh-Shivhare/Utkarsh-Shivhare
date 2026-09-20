@@ -86,7 +86,6 @@
 | **E-Yantra GeoGuide (IIT Bombay)** | `C++` `Embedded Systems` `Shortest Path` | **1st Rank** in 2 consecutive rounds; dynamic waypoint pathfinding with 98% instruction accuracy | [GitHub](https://github.com/Utkarsh-Shivhare/Eyantra-2k23-GeoGuide-3644) |
 | **Cloud LLM vs Edge AI Benchmarking** | `LLM` `Jetson Nano` `FastAPI` `Profiling` | Latency, throughput, and hardware profiling framework comparing cloud endpoints against Edge microcontrollers | [GitHub](https://github.com/Utkarsh-Shivhare/Cloud_llm_vs_EdgeAI) |
 | **Enterprise Data Automation Engine** | `Scrapy` `Selenium` `SQL` `REST APIs` | Automated ingestion pipelines scaling data coverage by +25% for clients like Mondelez, Wipro & Himalaya | [GitHub](https://github.com/Utkarsh-Shivhare/Flipkart_spider) |
-| **Futuristic AI Portfolio** | `React` `TailwindCSS` `Framer Motion` `Three.js` | Interactive 3D simulator, glassmorphism design, real-time edge architecture previews | [Live Demo](https://portfolio-utkarsh12.vercel.app/) |
 
 ### 🎯 Core Focus & Engineering Impact
 
