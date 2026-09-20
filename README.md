@@ -88,18 +88,12 @@
 | **Enterprise Data Automation Engine** | `Scrapy` `Selenium` `SQL` `REST APIs` | Automated ingestion pipelines scaling data coverage by +25% for clients like Mondelez, Wipro & Himalaya | [GitHub](https://github.com/Utkarsh-Shivhare/Flipkart_spider) |
 | **Futuristic AI Portfolio** | `React` `TailwindCSS` `Framer Motion` `Three.js` | Interactive 3D simulator, glassmorphism design, real-time edge architecture previews | [Live Demo](https://portfolio-utkarsh12.vercel.app/) |
 
----
+### 🎯 Core Focus & Engineering Impact
 
-### 📊 GitHub Activity & Real-Time Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Utkarsh-Shivhare&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1d&title_color=00f2fe&text_color=94a3b8&icon_color=00f2fe" alt="Utkarsh's GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh-Shivhare&theme=tokyonight&hide_border=true&background=0a0f1d&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" alt="Utkarsh's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Utkarsh-Shivhare&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1d&title_color=00f2fe&text_color=94a3b8" alt="Utkarsh's Most Used Languages" />
-</div>
+- ⚡ **High-Throughput Microservices**: Designed FastAPI + Redis architectures handling 30 RPS and conversational assistants serving 180 RPM with sub-second latency.
+- 🤖 **Edge AI & Computer Vision**: Deployed YOLO models and custom CNNs on NVIDIA Jetson Nano & Raspberry Pi with 96%+ accuracy and optimized inference hardware usage by 30%.
+- 🌐 **Data Ingestion & Automation**: Engineered enterprise scraping pipelines with Python, Scrapy & Selenium, increasing automated data coverage by +25%.
+- 🧩 **Algorithmic Problem Solving**: Peak LeetCode rating of **1970** with **550+** problems solved across Advanced Data Structures, Dynamic Programming, and Graph Theory.
 
 ---
 
